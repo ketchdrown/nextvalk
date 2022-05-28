@@ -12,5 +12,5 @@
   v2.0
   - Patch v92.4 support
   - Auto-update protocol has been added
-  - Use fastvalk command to enable/disable
+  - Use command fastvalk to enable/disable
   - Security improvements 
