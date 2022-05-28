@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "name": "fastvalk",
+    "author": "ketchdrown",
+    "description": "Let's you cast skills faster",
+    "version": "2.0",
+    "options": {
+        "niceName": "<font color='#00FFFF'> FastValk </font>",
+        "reloadable": true
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/ketchdrown/fastvalk/master/"],
+    "supportUrl": "https://github.com/ketchdrown/fastvalk/issues/"
+}
