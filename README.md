@@ -5,6 +5,7 @@
 - Works with NGSP and SP (skill-prediciton)
 - Version for game patch v92.4 [Menma's Tera]
 - Usage at your own risk
+- If your valk is too fast - Increase values at config file
 - More scripts for other classes coming soon...
 
 <b> Changes: </b>
