@@ -1,12 +1,9 @@
 {
     "files": {
-        "index.js": "d2ee6ef3820c9315a842df61eea44a24cfbbf6e98f72fd13c15e762fc61a28a1",
+        "index.js": "cefcaf72a4e402b9a6a5a1676e68121f0213f7d41bc95cf599ee73c890b3f54a",
         "module.json": "55fb0bdeed4a813ed628381d265805424c4b81fd35a0b2b566f40d60213ae4b3"
     },
     "defs": {
-        "C_CANCEL_SKILL": 3,
-        "S_ACTION_END": 5,
-        "S_ACTION_STAGE": 9,
-        "S_EACH_SKILL_RESULT": 14
+        "C_CANCEL_SKILL": "5638100roieea"
     }
 }
