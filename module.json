@@ -5,7 +5,7 @@
     "description": "Let's you cast skills faster",
     "version": "2.0",
     "options": {
-        "niceName": "<font color='#00FFFF'> FastValk </font>",
+        "niceName": "<font color='#FFC0CB'> FastValk </font>",
         "reloadable": true
     },
     "dependencies": {
