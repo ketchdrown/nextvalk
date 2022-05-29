@@ -1,7 +1,7 @@
-# FastValk
+# NextValk
 <b> FAQ: </b>
 
-- Valkyrie script that let's you cast skills faster
+- Valkyrie script that makes you absurdly fast
 - Works with NGSP and SP (skill-prediciton)
 - Version for game patch v92.4 [Menma's Tera]
 - Usage at your own risk
@@ -12,5 +12,5 @@
   v2.0
   - Patch v92.4 support
   - Auto-update protocol has been added
-  - Use command fastvalk to enable/disable
+  - Use command nextvalk to enable/disable
   - Security improvements 

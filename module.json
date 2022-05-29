@@ -1,15 +1,15 @@
 {
     "disableAutoUpdate": false,
-    "name": "fastvalk",
+    "name": "nextvalk",
     "author": "&nbsp;<font color='#FFC0CB'>ketchdrown</font>",
-    "description": "Let's you cast skills faster",
+    "description": "Valkyrie script that makes you absurdly fast",
     "version": "2.0",
     "options": {
-        "niceName": "<font color='#FFC0CB'> FastValk </font>",
+        "niceName": "<font color='#FFC0CB'> NextValk </font>",
         "reloadable": true
     },
     "dependencies": {
-        "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
+        "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json"
     },
     "servers": ["https://raw.githubusercontent.com/ketchdrown/fastvalk/master/"],
     "supportUrl": "https://github.com/ketchdrown/fastvalk/issues/"

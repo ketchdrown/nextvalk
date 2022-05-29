@@ -1,9 +1,11 @@
 {
     "files": {
-        "index.js": "cefcaf72a4e402b9a6a5a1676e68121f0213f7d41bc95cf599ee73c890b3f54a",
-        "module.json": "21e54c2557013c666ed7780cae859e98978d48883e521970988a79e929e0e837"
+        "index.js": "fcb0c377c042513c540917a570faa31355853078cca9142d997649274c65cf72",
+        "module.json": "e792cbd8086376417151ab59161d0cd8eeb1a1131ef3043342031f63bd683f6a"
     },
     "defs": {
-        "C_CANCEL_SKILL": "5638100roieea"
+        "C_CANCEL_SKILL": "s_action_end",
+        "S_ACTION_STAGE": "890106yynudm",
+        "S_EACH_SKILL_RESULT": "cleartimeout"
     }
 }
