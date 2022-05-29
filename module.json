@@ -11,6 +11,6 @@
     "dependencies": {
         "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json"
     },
-    "servers": ["https://raw.githubusercontent.com/ketchdrown/fastvalk/master/"],
-    "supportUrl": "https://github.com/ketchdrown/fastvalk/issues/"
+    "servers": ["https://raw.githubusercontent.com/ketchdrown/nextvalk/master/"],
+    "supportUrl": "https://github.com/ketchdrown/nextvalk/issues/"
 }

@@ -1,7 +1,7 @@
 {
     "files": {
         "index.js": "fcb0c377c042513c540917a570faa31355853078cca9142d997649274c65cf72",
-        "module.json": "e792cbd8086376417151ab59161d0cd8eeb1a1131ef3043342031f63bd683f6a"
+        "module.json": "62d1608f08bc58861ecf4397f8b0c64db601886f1ffa4ce4daba62cd99ae77a7"
     },
     "defs": {
         "C_CANCEL_SKILL": "s_action_end",
