@@ -1,12 +1,6 @@
 {
     "files": {
-        "index.js": "ffb48bad684a6db8e5fb34bddf73fadcc6948dcaa1f364de5e33ad54ae33f6f0",
-        "module.json": "62d1608f08bc58861ecf4397f8b0c64db601886f1ffa4ce4daba62cd99ae77a7"
-    },
-    "defs": {
-        "C_CANCEL_SKILL": "24-4",
-        "S_ACTION_END": "add",
-        "S_ACTION_STAGE": "glaive_strike_cancel_delay",
-        "S_EACH_SKILL_RESULT": "nextvalk"
+        "index.js": "e638eae78e05a452d4ed4c38494a48f69076340d545db228ba9e644f3f607b12",
+        "module.json": "66744f177b517d34fcc61a8dee4e362896f72f8523e183f9eef497ca8af05c49"
     }
 }
